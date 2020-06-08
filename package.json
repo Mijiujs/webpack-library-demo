@@ -1,0 +1,23 @@
+{
+  "name": "webpack-library-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mijiujs/webpack-library-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mijiujs/webpack-library-demo/issues"
+  },
+  "homepage": "https://github.com/Mijiujs/webpack-library-demo#readme",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
