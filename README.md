@@ -46,3 +46,15 @@ https://www.webpackjs.com/configuration/externals/#externals
         }
     }
 ```
+
+### 发布到npmjs上
+npm addUser
+npm login
+npm publish
+npm unpublish 包名
+
+设回原仓库，不要在淘宝源上
+```
+npm config set registry=http://registry.npmjs.org
+npm config set registry https://registry.npm.taobao.org
+```
